@@ -47,10 +47,6 @@ $config = [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => [
-                '/home' => '/site/index',
-//                '/about' => '/site/about',
-//                '/login' => '/site/login',
-                '<action>' => '/site/<action>'
             ],
         ],
     ],
